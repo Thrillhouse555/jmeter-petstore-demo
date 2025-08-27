@@ -1,0 +1,41 @@
+2025-08-27 12:40:38,879 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-08-27 12:40:38,919 INFO o.a.j.JMeter: Loading user properties from: /opt/apache-jmeter-5.6.3/bin/user.properties
+2025-08-27 12:40:38,922 INFO o.a.j.JMeter: Loading system properties from: /opt/apache-jmeter-5.6.3/bin/system.properties
+2025-08-27 12:40:38,938 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-08-27 12:40:38,938 INFO o.a.j.JMeter: Version 5.6.3
+2025-08-27 12:40:38,938 INFO o.a.j.JMeter: java.version=17.0.16
+2025-08-27 12:40:38,938 INFO o.a.j.JMeter: java.vm.name=OpenJDK 64-Bit Server VM
+2025-08-27 12:40:38,938 INFO o.a.j.JMeter: os.name=Mac OS X
+2025-08-27 12:40:38,938 INFO o.a.j.JMeter: os.arch=x86_64
+2025-08-27 12:40:38,939 INFO o.a.j.JMeter: os.version=12.5
+2025-08-27 12:40:38,939 INFO o.a.j.JMeter: file.encoding=UTF-8
+2025-08-27 12:40:38,939 INFO o.a.j.JMeter: java.awt.headless=null
+2025-08-27 12:40:38,939 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-08-27 12:40:38,939 INFO o.a.j.JMeter: Available Processors =8
+2025-08-27 12:40:38,952 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-08-27 12:40:38,953 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-08-27 12:40:38,953 INFO o.a.j.JMeter: JMeterHome=/opt/apache-jmeter-5.6.3
+2025-08-27 12:40:38,953 INFO o.a.j.JMeter: user.dir  =/Users/georgeansell/QA/jmeter saucedemo/jmeter-petstore-demo
+2025-08-27 12:40:38,953 INFO o.a.j.JMeter: PWD       =/Users/georgeansell/QA/jmeter saucedemo/jmeter-petstore-demo
+2025-08-27 12:40:38,972 INFO o.a.j.JMeter: IP: 192.168.5.25 Name: Georges-Air.powerhub FullName: georges-air.powerhub
+2025-08-27 12:40:39,002 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2025-08-27 12:40:39,710 INFO o.a.j.JMeterGuiLauncher: Setting LAF to: com.github.weisj.darklaf.DarkLaf:com.github.weisj.darklaf.theme.DarculaTheme
+2025-08-27 12:40:51,698 INFO o.a.j.s.FileServer: Default base='/Users/georgeansell/QA/jmeter saucedemo/jmeter-petstore-demo'
+2025-08-27 12:40:51,703 INFO o.a.j.g.a.Load: Loading file: /Users/georgeansell/QA/jmeter saucedemo/jmeter-petstore-demo/testplans/pet_shop_demo.jmx
+2025-08-27 12:40:51,704 INFO o.a.j.s.FileServer: Set new base='/Users/georgeansell/QA/jmeter saucedemo/jmeter-petstore-demo/testplans'
+2025-08-27 12:40:52,279 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-08-27 12:40:52,331 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-08-27 12:40:52,335 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-08-27 12:40:52,337 INFO o.a.j.s.SaveService: Loading file: /Users/georgeansell/QA/jmeter saucedemo/jmeter-petstore-demo/testplans/pet_shop_demo.jmx
+2025-08-27 12:40:52,377 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-08-27 12:40:52,377 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-08-27 12:40:52,377 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-08-27 12:40:52,377 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-08-27 12:40:52,377 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-08-27 12:40:52,377 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-08-27 12:40:53,326 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-08-27 12:40:53,327 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-08-27 12:40:53,327 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-08-27 12:40:53,327 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-08-27 12:40:53,706 INFO o.a.j.s.FileServer: Set new base='/Users/georgeansell/QA/jmeter saucedemo/jmeter-petstore-demo/testplans'
+2025-08-27 12:41:50,246 ERROR o.a.j.g.a.Save: Could not backup file! Backup directory does not exist, is not a directory or could not be created ! </opt/apache-jmeter-5.6.3/backups>

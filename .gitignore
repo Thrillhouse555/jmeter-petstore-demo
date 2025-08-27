@@ -1,3 +1,7 @@
 # git ignore the jmeter log from this point onwards
 
 jmeter.log
+*.jtl
+results/
+*.tmp
+
